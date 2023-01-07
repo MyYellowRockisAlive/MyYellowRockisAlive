@@ -1,6 +1,4 @@
-wowie actually using gh now!!!1!
-
-lua,js+ts,webdev
+working on python, js, and html projects.
 
 motion&graphics designer
 
